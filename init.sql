@@ -56,7 +56,7 @@ INSERT INTO route_status(text) VALUES ('Ожидает отправки');
 INSERT INTO route_status(text) VALUES ('Выполняется');
 INSERT INTO route_status(text) VALUES ('Выполнен');
 
-INSERT INTO car (licensePlate, model, transportTypeId, purchaseDate, mileage, carStatusId) VALUES ('АА1488ВВ', 'Ford Focus', 2, '2020-02-29', 72434, 1);
+INSERT INTO car (licensePlate, model, transportTypeId, purchaseDate, mileage, carStatusId) VALUES ('АА0001КВ', 'Ford Focus', 2, '2020-02-29', 72434, 1);
 INSERT INTO car (licensePlate, model, transportTypeId, purchaseDate, mileage, carStatusId) VALUES ('АА4200ВВ', 'DAF XF 105', 1, '2010-05-19', 23434, 2);
 INSERT INTO car (licensePlate, model, transportTypeId, purchaseDate, mileage, carStatusId) VALUES ('АА3220ВВ', 'Scania R420', 1, '2020-02-29', 356764, 1);
 
